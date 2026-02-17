@@ -1,0 +1,5 @@
+{
+  "name": "RetroFlow",
+  "description": "Un outil de rétrospective d'équipe complet avec gestion de thèmes, espaces de réflexion individuels et analyse IA pour générer des plans d'action.",
+  "requestFramePermissions": []
+}
